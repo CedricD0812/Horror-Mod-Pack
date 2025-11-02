@@ -1,0 +1,18 @@
+{
+    "id": "be12a6a4-a76e-4492-93c2-93561715562c",
+    "name": "Minecraft 1.19",
+    "description": "The “Wild Update” is the name given to the release of version 1.19 on June 7th, 2022. The update introduces a variety of new content including: brand-new locations, materials, and blocks such as the Deep Dark and Mangrove biomes; ancient cities; mobs like the warden, the frog, the tadpole, and the allay, as well as new items obtainable only in these new biomes.",
+    "majorGameVersion": "1.19",
+    "gameVersion": "1.19.2",
+    "loaders": [
+        "forge"
+    ],
+    "type": "vanilla",
+    "overrides": {
+        "loaderVersion": "1.19.2-43.5.1"
+    },
+    "configVersion": 2,
+    "lunar": {
+        "module": "vanilla-forge"
+    }
+}
